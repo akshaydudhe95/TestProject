@@ -6,8 +6,8 @@ package Access1;
 		  int b=88;
 	 }
 	 
-	 static int a=99;
-	     int c=55;
+	 static int a=100;
+	     int c=22;
 	         
 	public void akshay()    // method 2
 	 {
